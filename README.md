@@ -4,10 +4,15 @@ The Critter Caretaker is a simple program that encapsulates a menu and a clear s
 Upon Running the program, you'll be prompted to name your Critter. 
 
 Afterwards, the screen will be cleared and a menu will appear. The options are as follows: 
-0 - Quit;
-1 - Listen to your Critter;
-2 - Feed your Critter;
-3 - Play with your Critter;
+
+0 - Quit
+
+1 - Listen to your Critter
+
+2 - Feed your Critter
+
+3 - Play with your Critter
+
 4 - Diagnose your Critter
 
 The "Quit" Option will print the message "Goodbye" to the screen and you are free to exit the program
